@@ -2,18 +2,10 @@
 
 @import url(../vendor/fonts.css);
 
-@import url(../blocks/global.css);
+@import url(../blocks/footer.css);
 
 @import url(../blocks/header.css);
 
-@import url(../blocks/logo.css);
+@import url(../blocks/main.css);
 
-@import url(../blocks/gallery-name.css);
-
-@import url(../blocks/hero.css);
-
-@import url(../blocks/subtitle.css);
-
-@import url(../blocks/cards.css);
-
-@import url(../blocks/responsive.css);
+@import url(../blocks/page.css);
